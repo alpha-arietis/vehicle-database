@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "51cbf2cb023a975aab90f6fe0e0cc7f8",
+    "revision": "12cfb748dc1119c184c325dfaac85ea0",
     "url": "/vehicle-database/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vehicle-database/static/css/2.08c74b9a.chunk.css"
   },
   {
-    "revision": "b8fedb919d27f89014ae",
+    "revision": "f0811b8110c415b74e6b",
     "url": "/vehicle-database/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vehicle-database/static/js/2.d2d62c77.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b8fedb919d27f89014ae",
-    "url": "/vehicle-database/static/js/main.7ee9d996.chunk.js"
+    "revision": "f0811b8110c415b74e6b",
+    "url": "/vehicle-database/static/js/main.4489d515.chunk.js"
   },
   {
     "revision": "ab073960235e52ae1f75",
