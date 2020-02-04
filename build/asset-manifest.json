@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vehicle-database/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/vehicle-database/static/js/main.2df5c95d.chunk.js",
+    "main.js.map": "/vehicle-database/static/js/main.2df5c95d.chunk.js.map",
+    "runtime-main.js": "/vehicle-database/static/js/runtime-main.0cc7c89b.js",
+    "runtime-main.js.map": "/vehicle-database/static/js/runtime-main.0cc7c89b.js.map",
+    "static/css/2.08c74b9a.chunk.css": "/vehicle-database/static/css/2.08c74b9a.chunk.css",
+    "static/js/2.d2d62c77.chunk.js": "/vehicle-database/static/js/2.d2d62c77.chunk.js",
+    "static/js/2.d2d62c77.chunk.js.map": "/vehicle-database/static/js/2.d2d62c77.chunk.js.map",
+    "index.html": "/vehicle-database/index.html",
+    "precache-manifest.e843546ef78473bab9732573da81d8a9.js": "/vehicle-database/precache-manifest.e843546ef78473bab9732573da81d8a9.js",
+    "service-worker.js": "/vehicle-database/service-worker.js",
+    "static/css/2.08c74b9a.chunk.css.map": "/vehicle-database/static/css/2.08c74b9a.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/vehicle-database/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.d2d62c77.chunk.js.LICENSE.txt": "/vehicle-database/static/js/2.d2d62c77.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cc7c89b.js",
+    "static/css/2.08c74b9a.chunk.css",
+    "static/js/2.d2d62c77.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.2df5c95d.chunk.js"
+  ]
+}
