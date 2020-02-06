@@ -20,7 +20,8 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "start": "react-scripts start",
+    "startDev": "react-scripts start",
+    "start": "cd backend && npm run start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
