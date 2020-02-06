@@ -41,6 +41,8 @@ if (process.env.NODE_ENV === 'production' || process.env.NODE_ENV === 'staging')
 const vehiclesRouter = require('./routes/vehicles')
 app.use('/vehicles', vehiclesRouter)
 
+app.use(express.static('frontEndBuild'))
+
 app.listen(port, () => {
     console.log(`Server is running on port ${port}`) // tells server to listen on a certain port
 })
