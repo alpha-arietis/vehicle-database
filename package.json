@@ -1,6 +1,7 @@
 {
   "name": "vehicle-tracker",
   "version": "0.1.0",
+  "homepage": "https://alpha-arietis.github.io/vehicle-database/",
   "engines": {
     "node": "12.13.0"
   },
