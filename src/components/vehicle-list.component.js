@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import axios from 'axios'
-import url from 'url';
+import url from './url';
 
 require('dotenv').config()
 
@@ -32,7 +32,7 @@ export default class VehicleList extends React.Component {
     }
     
     componentDidMount() { // this method adds a list of vehicles from the server (MongoDB) to the state as array
-        axios.get(`${url}/vehicles`)
+        axios.get(`${url}vehicles`)
         .then(res => {
             this.setState({
                 vehicles: res.data
