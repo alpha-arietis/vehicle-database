@@ -26,6 +26,8 @@ app.use('/vehicles', vehiclesRouter)
 
 if (process.env.NODE_ENV === 'production') {
     app.use(express.static('frontEndBuild'));
+    // Fall back to index.html all above app.use dont[ match]
+    app.get('*', (req, res) => res.sendFile(`${__dirname}/frontEndBuild/index.html`))
 }
 
 app.listen(port, () => {
